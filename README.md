@@ -1,1 +1,1 @@
-# Weather app created using HTML, CSS ans Javascript
+# Weather app created using HTML, CSS and Javascript
